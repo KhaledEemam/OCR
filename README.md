@@ -172,7 +172,7 @@ $ uvicorn main:app --reload --port 5000
 
 ### Output Sample
 
-![](src\assets\README_images\1.png)
+![](src/assets/README_images/1.png)
 -------
-![](src\assets\README_images\2.png)
+![](src/assets/README_images/2.png)
 --------
